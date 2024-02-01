@@ -1,4 +1,7 @@
 basketball
+or
 cricket
+or
 badminton
+or
 football
