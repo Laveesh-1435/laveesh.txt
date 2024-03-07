@@ -1,4 +1,1 @@
-basketball
-cricket
-badminton
-football
+basketball, cricket, badminton, football, handball, hockey
